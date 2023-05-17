@@ -13,3 +13,14 @@ header {
 .row {
     border: 2px dashed red;
 }
+.col {
+    border: 2px dashed blue;
+}
+
+
+/* todo remove */
+img {
+    height: 200px;
+    width: 300px;
+    border: 2px dashed red;
+}
