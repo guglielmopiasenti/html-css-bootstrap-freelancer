@@ -1,0 +1,15 @@
+/** Main CSS */
+
+header {
+
+    background-color: #2C3E50;
+    /* todo remove */
+    border: 2px dashed red;
+    height: 100px;
+}
+#presentation {
+    background-color: #3BBC9C;
+}
+.row {
+    border: 2px dashed red;
+}
