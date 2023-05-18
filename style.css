@@ -1,26 +1,25 @@
 /** Main CSS */
 
 header {
-
     background-color: #2C3E50;
 }
 #presentation {
     background-color: #3BBC9C;
 }
-.row {
-    border: 2px dashed red;
+.horizontal-rule {
+    width: 100px;
+    height: 1px;
+    border-bottom: 5px solid white;
+    margin: 0 10px;
+    border-radius: 5px;
 }
-.col {
-    border: 2px dashed blue;
+.horizontal-rule-black {
+    width: 100px;
+    height: 1px;
+    border-bottom: 5px solid black;
+    margin: 0 10px;
+    border-radius: 5px;
 }
-/* todo remove */
-img {
-    height: 200px;
-    width: 300px;
-    border: 2px dashed red;
-}
-
-
 #about {
     background-color: #3BBC9C;
 }
