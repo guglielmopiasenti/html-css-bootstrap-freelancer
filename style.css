@@ -24,6 +24,22 @@ img {
 #about {
     background-color: #3BBC9C;
 }
+#contact textarea {
+    width: 100%;
+    height: 200px;
+}
+#contact .form-control {
+    border-radius: 0;
+    border: 0;
+    border-bottom: 1px solid darkgrey;
+}
+#contact ::placeholder {
+    color: black;
+}
+#contact .form-control:focus {
+    box-shadow: none;
+    border-color: darkgrey;
+}
 footer {
     background-color: #3A546D;
 }
