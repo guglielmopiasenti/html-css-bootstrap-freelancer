@@ -43,8 +43,31 @@ header {
     box-shadow: none;
     border-color: darkgrey;
 }
+form > button {
+    border-color: #3BBC9C !important;
+    background-color: #3BBC9C !important;
+}
 footer {
     background-color: #3A546D;
+}
+.brands{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.brands i {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+    border-radius: 50%;
+    border-color: white;
+    height: 3.5rem;
+    width: 3.5rem;
+}
+.text-acqua-green {
+    color: #3BBC9C;
 }
 #copyright {
     background-color: #2C3E50;
