@@ -6,6 +6,10 @@ header {
 #presentation {
     background-color: #3BBC9C;
 }
+.img-container {
+    height: 300px;
+    width: 300px;
+}
 .horizontal-rule {
     width: 100px;
     height: 1px;
